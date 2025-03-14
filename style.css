@@ -179,8 +179,8 @@ aside {
             grid-area: channel;
             align-self: flex-start;
         }
-            .channel > img {
-                width: 42px;
-                height: 42px;
+            .channel > img, .profile-img {
+                width: 36px;
+                height: 36px;
+                border-radius: 50%;
             }
-
